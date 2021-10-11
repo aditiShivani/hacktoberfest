@@ -2378,6 +2378,11 @@ Noida
 - Bio: Newbie :D
 - Github [zh2018](https://github.com/zh2018)
 
+#### Name: [Adit shivani]https://github.com/aditiShivani
+- Place: patna , bihar, India
+- Bio: Engineering student and a web developer
+- Github: [aditiShivani]https://github.com/aditiShivani
+
 #### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 - Place: Agadir, Morocco
 - Bio: Student
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
