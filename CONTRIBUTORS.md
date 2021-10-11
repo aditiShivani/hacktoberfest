@@ -2380,7 +2380,7 @@ Noida
 
 #### Name: [Adit shivani]https://github.com/aditiShivani
 - Place: patna , bihar, India
-- Bio: Engineering student and a web developer
+- Bio: Engineering student and a web developer.
 - Github: [aditiShivani]https://github.com/aditiShivani
 
 #### Name: [Zakaria Soufiani](https://github.com/zakaria-soufiani)
